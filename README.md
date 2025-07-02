@@ -1,7 +1,9 @@
 # SmartSDLC---AI-Enhanced-Software-Development-Lifecycle
 SmartSDLC leverages the power of advanced AI to streamline critical SDLC phases, offering a comprehensive suite of tools that not only accelerate development but also significantly improve the quality and reliability of software products.
 The modern Software Development Lifecycle is fraught with complexities. From ambiguous requirements to elusive bugs, time-consuming manual testing, and the challenge of understanding large codebases, these hurdles often lead to delays, cost overruns, and quality compromises. SmartSDLC addresses these pain points head-on.
-**Key Features & Benefits**
+
+**Key Features & Benefits:**
+
 Feature 1 - "Intelligent Requirement Classification & User Story Generation"
 
 "Our Requirement Classification module transforms unstructured project documentation, such as PDF files, into actionable insights. It intelligently classifies requirements into distinct SDLC phases—Requirements, Design, Development, Testing, and Deployment—and can generate structured user stories. This ensures clarity from the outset, reduces misinterpretations, and provides a solid foundation for project planning."
