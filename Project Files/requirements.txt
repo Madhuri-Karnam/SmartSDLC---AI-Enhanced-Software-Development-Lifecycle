@@ -1,0 +1,7 @@
+!pip install fastapi uvicorn python-multipart
+!pip install pymupdf  
+!pip install transformers accelerate torch
+!pip install langchain
+!pip install langchain-community
+!pip install pyngrok
+!pip install -U bitsandbytes
